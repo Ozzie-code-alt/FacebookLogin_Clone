@@ -1,0 +1,132 @@
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #1877f2;
+    font-weight: 600;
+    
+  
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 32px ;
+    font-size: 32px;
+    font-weight: 400;
+    
+}
+.span{
+    font-size: 15px;
+    line-height: 24px;
+    color: #606770;
+    font-weight: 400 ;
+}
+.half{
+    margin-top:10rem;
+    margin-left: 7rem;
+}
+.grid{
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+
+.firstbox{
+    background-color :#ffff;
+    border-radius:15px;
+    border-collapse: separate; 
+    margin-left: 7rem;
+    overflow: hidden;
+    margin-right: 75.7rem;  
+    
+}
+.login{
+    background-color: #ffff;
+    display: flex;
+    flex-direction: column;
+    padding: 10rem;
+margin-top: -20rem;
+padding-bottom: 30;
+margin-left: 50rem;
+margin-right: 17rem;
+border-radius: 15px;
+overflow: hidden;
+
+}
+.login #user{
+    width: 25%;
+    margin-top: -140px;
+    margin-left: -140px;
+    padding: 20px;
+    border-radius: 15px;
+    position: absolute;   
+}
+.login #pass{
+    margin-left: -140px;
+    margin-top: -60px;
+    width: 25%;
+    padding: 20px;
+    border-radius: 15px;
+    position: absolute;
+}
+
+.login .button{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1877f2;
+    border-radius: 15px;
+    margin-left: -140px;
+    margin-right: -140px;
+    padding: 20px;
+    
+    font-weight: 700;
+    text-align: center;
+}
+
+.login .button span{
+    color: white;
+}
+.firstbox span{
+    margin-left: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+.login span{
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: row; 
+    text-align: center;
+    margin-top: 20px;
+
+}
+.login .Line{
+    border-bottom: 2px solid #ccc;
+    width: 420%;
+    margin-left: -140px;
+  
+}
+.login .create{
+    border-radius: 15px;
+    background-color: #36a420;
+    margin-left: -140px;
+    margin-top: 30px;
+    margin-right: -140px;
+    padding: 20px;
+    
+    font-weight: 700;
+    text-align: center;
+}
+.login .create span{
+    color: white;
+}
+body{
+    background-color: #d3d6db;
+    margin: 0;
+    height:100vh;
+
+}
+.Last{
+    font-weight: 700;
+}
+.dude{
+    margin-left:51.7rem ;
+    font-size: 16px;
+}
